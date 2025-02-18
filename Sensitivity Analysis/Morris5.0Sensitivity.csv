@@ -1,0 +1,49 @@
+metric,parameter,index,value,seed
+mean [current_expected_consumption_rate] of turtles_mean,kernel_range,mustar,0.003471297,-1729387117
+mean [current_expected_consumption_rate] of turtles_mean,theta,mustar,0.023687968,-1729387117
+mean [current_expected_consumption_rate] of turtles_mean,attack_rate,mustar,0.12165387,-1729387117
+mean [current_expected_consumption_rate] of turtles_mean,the_percentage,mustar,0,-1729387117
+mean [current_expected_consumption_rate] of turtles_mean,kernel_range,mu,-0.003471297,-1729387117
+mean [current_expected_consumption_rate] of turtles_mean,theta,mu,0.023687968,-1729387117
+mean [current_expected_consumption_rate] of turtles_mean,attack_rate,mu,0.12165387,-1729387117
+mean [current_expected_consumption_rate] of turtles_mean,the_percentage,mu,0,-1729387117
+mean [current_expected_consumption_rate] of turtles_mean,kernel_range,sigma,0.001831107,-1729387117
+mean [current_expected_consumption_rate] of turtles_mean,theta,sigma,0.004779294,-1729387117
+mean [current_expected_consumption_rate] of turtles_mean,attack_rate,sigma,0.032283403,-1729387117
+mean [current_expected_consumption_rate] of turtles_mean,the_percentage,sigma,0,-1729387117
+mean [residence_time] of turtles_mean,kernel_range,mustar,0.000184056,-1729387117
+mean [residence_time] of turtles_mean,theta,mustar,0.004558662,-1729387117
+mean [residence_time] of turtles_mean,attack_rate,mustar,0.00023628,-1729387117
+mean [residence_time] of turtles_mean,the_percentage,mustar,0,-1729387117
+mean [residence_time] of turtles_mean,kernel_range,mu,-0.000138121,-1729387117
+mean [residence_time] of turtles_mean,theta,mu,0.004558662,-1729387117
+mean [residence_time] of turtles_mean,attack_rate,mu,0.000219674,-1729387117
+mean [residence_time] of turtles_mean,the_percentage,mu,0,-1729387117
+mean [residence_time] of turtles_mean,kernel_range,sigma,0.00024963,-1729387117
+mean [residence_time] of turtles_mean,theta,sigma,0.001739453,-1729387117
+mean [residence_time] of turtles_mean,attack_rate,sigma,0.000280736,-1729387117
+mean [residence_time] of turtles_mean,the_percentage,sigma,0,-1729387117
+mean [landed] of patches with [is_border = false]_mean,kernel_range,mustar,1.597013192,-1729387117
+mean [landed] of patches with [is_border = false]_mean,theta,mustar,5.270768613,-1729387117
+mean [landed] of patches with [is_border = false]_mean,attack_rate,mustar,0.089253591,-1729387117
+mean [landed] of patches with [is_border = false]_mean,the_percentage,mustar,0,-1729387117
+mean [landed] of patches with [is_border = false]_mean,kernel_range,mu,1.098826899,-1729387117
+mean [landed] of patches with [is_border = false]_mean,theta,mu,-5.270768613,-1729387117
+mean [landed] of patches with [is_border = false]_mean,attack_rate,mu,-0.079241146,-1729387117
+mean [landed] of patches with [is_border = false]_mean,the_percentage,mu,0,-1729387117
+mean [landed] of patches with [is_border = false]_mean,kernel_range,sigma,1.517152705,-1729387117
+mean [landed] of patches with [is_border = false]_mean,theta,sigma,2.38315713,-1729387117
+mean [landed] of patches with [is_border = false]_mean,attack_rate,sigma,0.104649096,-1729387117
+mean [landed] of patches with [is_border = false]_mean,the_percentage,sigma,0,-1729387117
+mean [true_amount_of_food] of patches with [is_border = false]_mean,kernel_range,mustar,0.144819026,-1729387117
+mean [true_amount_of_food] of patches with [is_border = false]_mean,theta,mustar,0.032268261,-1729387117
+mean [true_amount_of_food] of patches with [is_border = false]_mean,attack_rate,mustar,0.194797535,-1729387117
+mean [true_amount_of_food] of patches with [is_border = false]_mean,the_percentage,mustar,0,-1729387117
+mean [true_amount_of_food] of patches with [is_border = false]_mean,kernel_range,mu,-0.144819026,-1729387117
+mean [true_amount_of_food] of patches with [is_border = false]_mean,theta,mu,-0.032268261,-1729387117
+mean [true_amount_of_food] of patches with [is_border = false]_mean,attack_rate,mu,-0.194797535,-1729387117
+mean [true_amount_of_food] of patches with [is_border = false]_mean,the_percentage,mu,0,-1729387117
+mean [true_amount_of_food] of patches with [is_border = false]_mean,kernel_range,sigma,0.055096982,-1729387117
+mean [true_amount_of_food] of patches with [is_border = false]_mean,theta,sigma,0.007026267,-1729387117
+mean [true_amount_of_food] of patches with [is_border = false]_mean,attack_rate,sigma,0.053746318,-1729387117
+mean [true_amount_of_food] of patches with [is_border = false]_mean,the_percentage,sigma,0,-1729387117
